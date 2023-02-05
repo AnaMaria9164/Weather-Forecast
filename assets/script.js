@@ -32,7 +32,7 @@ function appendSearchHistory(search){
 }
 
 function renderCurrentWeather(city, weatherData){
-    let date = moment().format("D/M/YYYY");
+    let date = moment().format("DD/MM/YYYY");
     let tempC = weatherData["main"] ["temp"];
     let windKph = weatherData["wind"] ["speed"];
     let humidity = weatherData["main"] ["humidity"];
@@ -122,7 +122,7 @@ function renderForecast(weatherData){
         windEl.attr("class", "card-text");
         humidityEl.attr("class", "card-text");
 
-        cardTitle.text(moment(futureForecast[i].dt_text).format("D/M/YYYY"));
+        cardTitle.text(moment(futureForecast[i].dt_text).format("DD/MM/YYYY"));
         weatherIcon.attr("src", iconURL);
         weatherIcon.attr("alt", iconDescription);
         tempEl.text(`Temp ${tempC} C`)

@@ -39,6 +39,10 @@ N/A
 
 The user should write the city they want to see the weather for and press Search.
 
+Preview of the application: 
+
+![alt text](preview of the application .png)
+
 Deployed page: https://anamaria9164.github.io/Weather-Forecast/
 
 ## Credits

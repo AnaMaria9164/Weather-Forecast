@@ -41,7 +41,7 @@ The user should write the city they want to see the weather for and press Search
 
 Preview of the application: 
 
-![alt text](images/preview of the application .png)
+<img width="1468" alt="preview of the application " src="https://user-images.githubusercontent.com/118116798/216796812-b12da4ae-c69e-455f-a158-86d3b0a81b6b.png">
 
 Deployed page: https://anamaria9164.github.io/Weather-Forecast/
 

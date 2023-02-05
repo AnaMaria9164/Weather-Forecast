@@ -39,7 +39,7 @@ N/A
 
 The user should write the city they want to see the weather for and press Search.
 
-Deployed page: https://anamaria9164.github.io/Daily-Planner-App/
+Deployed page: https://anamaria9164.github.io/Weather-Forecast/
 
 ## Credits
 
